@@ -1,0 +1,13 @@
+.draggable_list {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.draggable_card {
+    width: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
